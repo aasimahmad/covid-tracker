@@ -1,5 +1,5 @@
-# covid-tracker
+# Covid-19 Tracker
 
-Covid-19 Tracker using chartJS library which has dark mode functionality.
+Global Covid-19 Tracker using chartJS library which has dark mode functionality.
 
-## Live Demo: 
+### Live Demo: 
