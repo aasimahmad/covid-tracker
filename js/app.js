@@ -1,7 +1,7 @@
 const COLORS = {
     confirmed: '#ff0000',
     recovered: '#008000',
-    deaths: '#373c43'
+    deaths: '#50575f'
 }
 
 const CASE_STATUS = {
@@ -17,8 +17,6 @@ let countries_list
 let all_time_chart, days_chart, recover_rate_chart
 
 window.onload = async () => {
-    console.log('ready...')
-
     initTheme()
     initCountryFilter()
     //only init chart on first time page load
